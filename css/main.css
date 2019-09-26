@@ -1,0 +1,10 @@
+table tr th, table tr td {
+    width: 160px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+#form input {
+    width: 157px;
+    margin-left: 2px;
+}
